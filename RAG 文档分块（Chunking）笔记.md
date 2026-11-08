@@ -188,4 +188,5 @@ for chunk in chunk_list:
 
 - 检查手段：打开 chunk_result.txt，看块开头结尾是不是半句话
 
+>>>>>>> f7649c80da4890807fcaa3096b8322cb76443e19
 - 想上主流方案：换 RecursiveCharacterTextSplitter
